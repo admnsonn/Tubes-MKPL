@@ -16,14 +16,14 @@ public class DriverEmail_1302194071 {
     public static void main(String[] args) {
         Email_1302194071[] email = new Email_1302194071[]{
             new Email_1302194071(
-            0,
+            1,
             "muhamadadam@student.telkomuniversity.ac.id",
             "Ngumpul Jurnal Pertemuan ke 8"
             "Ini lampiran jurnal ke 8"
 ,
             false              
             ),
-        LocalDateTime now = LocalDateTime.now();
+        LocalDateTimee now = LocalDateTime.now();
             new Email_1302194071(
             1,
             "asprak@loop.com",
