@@ -2,13 +2,27 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ContohProjectMaven</groupId>
   <artifactId>ContohProject</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.3.5</version>
+  
+<dependencies>
+  <dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.11</version>
+    </dependency>
+</dependencies>  
+
+  <distributionManagement>
+    <repository>
+      <id>Github</id>
+      <name>Github Packages</name>
+      <url>https://maven.pkg.github.com/muhamadadam2001/Tubes-MKPL</url>
+    </repository>
+  </distributionManagement>
   
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
      <maven.compiler.target>1.8</maven.compiler.target>
-     <sonar.organization>honeynchips</sonar.organization>
-     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
- </properties>
-  
+  <properties>
+ 
 </project>
