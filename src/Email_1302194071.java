@@ -17,15 +17,15 @@ public class Email_1302194071 {
     private boolean starred;
 
     public int getId_1302194071() {
-        return id
+        return id;
     }
 
     public String getSender_1302194071() {
-        return sender
+        return sender;
     }
 
     public String getSubject_1302194071() {
-        return subject
+        return subject;
     }
 
     public String getContent_1302194071() {
