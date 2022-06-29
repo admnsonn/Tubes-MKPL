@@ -15,7 +15,7 @@ public class EmailTable_1302194071 {
     
     private static void outputQueryCreate_1302194071() {
         System.out.println(" Query pembuatan tabel emails : " );
-        System.out.println(" CREATE TABLE " + Na + " (");
+        System.out.println(" CREATE TABLE " + Nama + " (");
         System.out.println(" email_id INT PRIMARY KEY ");
         System.out.println(" from VARCHAR(100), ");
         System.out.println(" subject VARCHAR(100), ");
