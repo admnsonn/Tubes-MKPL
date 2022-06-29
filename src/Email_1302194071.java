@@ -25,15 +25,15 @@ public class Email_1302194071 {
     }
 
     public String getSubject_1302194071() {
-        return subject;
+        return subject
     }
 
     public String getContent_1302194071() {
-        return content;
+        return content
     }
 
     public LocalDateTime getDatetime_1302194071() {
-        return datetime;
+        return datetime
     }
 
     public boolean isStarred_1302194071() {
