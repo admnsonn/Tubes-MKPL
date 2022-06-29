@@ -29,7 +29,7 @@ public class Email_1302194071 {
     }
 
     public String getContent_1302194071() {
-        return content;
+       return content;
     }
 
     public LocalDateTime getDatetime_1302194071() {
