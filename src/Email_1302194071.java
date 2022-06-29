@@ -45,7 +45,7 @@ public class Email_1302194071 {
     }
 
     public void setSender_1302194071(String sender) {
-        this = sender;
+        this.sender = sender;
     }
 
     public void setSubject_1302194071(String subject) {
