@@ -28,8 +28,8 @@ public class Email_1302194071 {
         return subject;
     }
 
-    public String getConten_1302194071() {
-        content;
+    public String getContent_1302194071() {
+       return content;
     }
 
     public LocalDateTime getDatetime_1302194071() {
@@ -45,7 +45,7 @@ public class Email_1302194071 {
     }
 
     public void setSender_1302194071(String sender) {
-        this.sender = sender;
+        this = sender;
     }
 
     public void setSubject_1302194071(String subject) {
