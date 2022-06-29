@@ -12,7 +12,7 @@ import java.time.LocalDateTime;
  */
 public class Email_1302194071 {
     private int id;
-    private String sender, subject, content;
+    private String seender, subject, content;
     private LocalDateTime datetime;
     private boolean starred;
 
