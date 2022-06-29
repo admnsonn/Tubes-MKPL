@@ -13,12 +13,12 @@
 </dependencies>  
 
   <distributionManagement>
-    <repository>
-      <id>Github</id>
-      <name>Github Packages</name>
-      <url>https://maven.pkg.github.com/muhamadadam2001/Tubes-MKPL</url>
-    </repository>
-  </distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>GitHub Maven</name>
+     <url>https://maven.pkg.github.com/muhamadadam2001/Tubes-MKPL</url>
+   </repository>
+</distributionManagement>
   
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
